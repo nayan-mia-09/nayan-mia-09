@@ -1,9 +1,9 @@
 
-(https://media.licdn.com/dms/image/v2/D5616AQH9Ae0XzbJ1sQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731511678116?e=1743033600&v=beta&t=48_U0yHJB9ob0KBVNpKfuuFcKVb-5CuhTBbT9l5eu7o)
+
 
 ### Hi there 👋, Myself Nayan Mia
 #### I am a passionate learner diving into full-stack web development with the MERN stack (MongoDB, Express.js, React, Node.js). 
-![I am a passionate learner diving into full-stack web development with the MERN stack (MongoDB, Express.js, React, Node.js). ]
+![I am a passionate learner diving into full-stack web development with the MERN stack (MongoDB, Express.js, React, Node.js). ](https://media.licdn.com/dms/image/v2/D5616AQH9Ae0XzbJ1sQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731511678116?e=1743033600&v=beta&t=48_U0yHJB9ob0KBVNpKfuuFcKVb-5CuhTBbT9l5eu7o)
 
 Hi, I’m Nayan Mia, a passionate learner diving into full-stack web development with the MERN stack (MongoDB, Express.js, React, Node.js). Currently exploring how to build dynamic and responsive web applications using modern JavaScript technologies. I’m eager to learn and develop my skills in both frontend and backend development to create seamless, user-friendly experiences. My goal is to build powerful, scalable web applications and continuously improve my coding knowledge.
 
