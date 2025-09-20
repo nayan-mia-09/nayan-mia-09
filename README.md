@@ -55,7 +55,7 @@ I love building **dynamic, responsive, and scalable web applications** while con
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayanmia-dev)  
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nayanmia363)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/nayan-mia-09/projects)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)]([https://app.netlify.com/teams/nayan-mia-09/projects](https://nayandev.netlify.app/))  
 
 ---
 
