@@ -27,12 +27,16 @@ I love building **dynamic, responsive, and scalable web applications** while con
 
 - [ **Front-End Blog Application Project**]([https://github.com/nayan-mia-09/blog-project](https://github.com/nayan-mia-09/blog-project))  
   A practice blog project built with **React**, **Vite**, **Tailwind CSS**, and **DaisyUI**. This app allows users to explore the latest blog posts, browse blogs by category, and view blog details. Deployed on **Netlify**. 🚀
+  <a href="https://simple-blog-site-01.netlify.app/">Live Llink</a>
+  <a href="https://github.com/nayan-mia-09/blog-project">GitHub</a>
 
 - [ **News Portal Backend**]([https://github.com/nayan-mia-09/ecommerce-app](https://github.com/nayan-mia-09/News))  
   A simple RESTful backend for a news portal where users can register, login, and perform CRUD operations on news articles (create, read, update, delete). Built with Node.js, Express, and MongoDB. This README covers setup, configuration, API endpoints, and examples to get you started..
+   <a href="https://github.com/nayan-mia-09/News">GitHub</a>
 
 - [📑 **Portfolio Website**]([https://github.com/nayan-mia-09/portfolio](https://github.com/nayan-mia-09/personal-portfolio-v1))  
   Responsive personal portfolio built using **HTML, CSS, Bootstrap**.
+  <a href="https://nayandev.netlify.app/">Portfolio</a>
 
 ---
 
