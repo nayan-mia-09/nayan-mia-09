@@ -38,13 +38,6 @@ I love building **dynamic, responsive, and scalable web applications** while con
   Responsive personal portfolio built using **HTML, CSS, Bootstrap**.
   <a href="https://nayandev.netlify.app/">Portfolio</a>
 
----
-
-## 📊 GitHub Stats  
-
-![Nayan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayan-mia-09&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nayan-mia-09&layout=compact&theme=radical)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nayan-mia-09&theme=radical&no-frame=true&margin-w=5)  
 
 ---
 
