@@ -36,7 +36,7 @@ I love building **dynamic, responsive, and scalable web applications** while con
 
 - [📑 **Portfolio Website**]([https://github.com/nayan-mia-09/portfolio](https://github.com/nayan-mia-09/personal-portfolio-v1))  
   Responsive personal portfolio built using **HTML, CSS, Bootstrap**.
-  <a href="https://nayandev.netlify.app/">Portfolio</a>
+  <a href="https://nayandevdotcom.netlify.app/">Portfolio</a>
 
 
 ---
