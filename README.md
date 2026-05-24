@@ -22,7 +22,7 @@ const nayan = {
   currentlyBuilding: "Seatovea — A Full-Stack Sports Platform",
   currentlyLearning: ["Cloud & DevOps with AI", "System Design", "TypeScript"],
   openTo: "Full-Time Frontend / Full-Stack Developer Roles",
-  portfolio: "https://nayandev.netlify.app/",
+  portfolio: "https://nayandevdotcom.netlify.app/",
   funFact: "I turn coffee ☕ into scalable web apps 🚀"
 };
 ```
@@ -140,7 +140,7 @@ const nayan = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayanmia-dev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)]((https://nayandevdotcom.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://nayandevdotcom.netlify.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nayanmia363)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nayan-mia-09)
 
